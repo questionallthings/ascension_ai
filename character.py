@@ -2,7 +2,7 @@ class Character:
     def __init__(self):
         self.info = {'primary_stat':'',
                      'pve_power': 0,
-                     'pvp_power': 0,
+                     'pvp_power': 0, 
                      'item_level': 0,
                      'prestige_level': 0}
         self.attributes = {'strength': 0,
